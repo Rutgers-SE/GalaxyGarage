@@ -1,0 +1,25 @@
+{
+  "name": "galaxy",
+  "description": "a Sails application",
+  "main": "app.js",
+  "authors": [
+    "alex"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "lodash": "^4.5.1",
+    "q": "^2.0.2"
+  }
+}
